@@ -23,15 +23,18 @@ homelessness-data-project/
 │   ├─ top_3_unaccompanied_youth_2018.csv
 │   ├─ top_states_overall_homeless_2018.csv
 │   └─ low_unsheltered_locations_2018.csv
-├─ queries/
+├─
+ images/
+│   ├─ top_3_unaccompanied_youth_chart.png
+│   ├─ top_states_overall_homeless_2018.png
+│   └─ low_unsheltered_locations_2018.png
+
+queries/
 │   ├─ top_3_unaccompanied_youth.sql
 │   ├─ top_states_overall_homeless.sql
 │   └─ low_unsheltered_locations.sql
 ├
-├─ images/
-│   ├─ top_3_unaccompanied_youth_chart.png
-│   ├─ top_states_overall_homeless_2018.png
-│   └─ low_unsheltered_locations_2018.png
+├─
 └─ README.md
 ```
 
