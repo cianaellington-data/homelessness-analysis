@@ -85,7 +85,7 @@ This highlights regions where youth homelessness is most concentrated, helping i
 - **Data:** `top_states_overall_homeless_2018.csv`  
 - **Chart:**  
 
-![Top States Overall Homeless](images/top_states_overall_homeless_2018.png)
+
 
 **Key Findings:**  
 - States with the highest homeless populations include California, New York, Florida, Texas, Washington, Massachusetts, and Oregon.  
@@ -98,7 +98,7 @@ This highlights regions where youth homelessness is most concentrated, helping i
 - **Data:** `low_unsheltered_locations_2018.csv`  
 - **Chart:**  
 
-![Low Unsheltered Locations](images/low_unsheltered_locations_2018.png)
+
 
 **Key Findings:**  
 - Locations such as Springfield/Hampden County CoC (MA) and Nassau & Suffolk Counties CoC (NY) maintain unsheltered homelessness rates below 2%.  
