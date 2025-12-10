@@ -1,9 +1,5 @@
 # Homelessness Data Analysis Project
 
-![SQL](https://img.shields.io/badge/SQL-BigQuery-blue)
-![Data Analysis](https://img.shields.io/badge/Data-Analysis-orange)
-![License](https://img.shields.io/badge/License-MIT-green)
-
 SQL analysis of U.S. homelessness data (2012–2018)
 
 ---
