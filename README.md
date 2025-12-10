@@ -1,12 +1,10 @@
 # Homelessness Data Analysis Project
-
-
 SQL analysis of U.S. homelessness data (2018)
 
 ---
 
 ## Executive Summary
-This project uses SQL and BigQuery to analyze U.S. homelessness data in (2018) uncovering key patterns in unaccompanied homeless youth, overall homelessness by state, and regions with strong shelter coverage. The goal is to support data-informed decision-making and highlight how public data can help guide effective policies and resource allocation.
+This project uses SQL and BigQuery to analyze U.S. homelessness data in 2018, uncovering key patterns in unaccompanied homeless youth, overall homelessness by state, and regions with strong shelter coverage. The goal is to support data-informed decision-making and highlight how public data can guide effective policies and resource allocation.
 
 > 🔍 **Featured Insight:** Some regions with large homeless populations maintain unsheltered rates below 2%, showing that strong shelter infrastructure and coordinated services can significantly reduce unsheltered homelessness.
 
@@ -20,13 +18,13 @@ This project uses SQL and BigQuery to analyze U.S. homelessness data in (2018) u
 ---
 
 ## Project Overview
-This project analyzes homelessness data from the Merit America Exploration Project dataset (2018) This analysis focuses on three key areas: unaccompanied homeless youth under 18, overall homelessness by state, and locations with low unsheltered populations. Together, these analyses help illustrate where homelessness challenges are most concentrated and where support systems are working effectively.
+This project analyzes homelessness data from the Merit America Exploration Project dataset (2018). This analysis focuses on three key areas: unaccompanied homeless youth under 18, overall homelessness by state, and locations with low unsheltered populations. Together, these analyses help illustrate where homelessness challenges are most concentrated and where support systems are working effectively.
 
 ---
 
 ## Data Sources
 - **Dataset:** `merit-america-data-project-ce.Exploration_Project.homelessness` (BigQuery)  
-- **Years included:** 2018  
+- **Year included:** 2018  
 
 ---
 
@@ -102,12 +100,3 @@ This project analyzes homelessness data from the Merit America Exploration Proje
 
 ## Portfolio Link
 View this project in my portfolio: [Portfolio Link](https://sites.google.com/d/1MqpFCWTMwqxzWNlhEOSLcIGVGHlUNs6T/p/11o0lipklEm6mn1q2-UZcltNbdAI_qSes/edit)
-
-
-
-
-
-
-
-
-
