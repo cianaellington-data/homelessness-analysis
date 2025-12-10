@@ -5,7 +5,7 @@ SQL analysis of U.S. homelessness data (2018)
 ---
 
 ## Executive Summary
-This project uses SQL and BigQuery to analyze U.S. homelessness data from 2012‚Äì2018, uncovering key patterns in unaccompanied homeless youth, overall homelessness by state, and regions with strong shelter coverage. The goal is to support data-informed decision-making and highlight how public data can help guide effective policies and resource allocation.
+This project uses SQL and BigQuery to analyze U.S. homelessness data from 2018, uncovering key patterns in unaccompanied homeless youth, overall homelessness by state, and regions with strong shelter coverage. The goal is to support data-informed decision-making and highlight how public data can help guide effective policies and resource allocation.
 
 > üîç **Featured Insight:** Some regions with large homeless populations maintain unsheltered rates below 2%, showing that strong shelter infrastructure and coordinated services can significantly reduce unsheltered homelessness.
 
@@ -15,6 +15,23 @@ This project uses SQL and BigQuery to analyze U.S. homelessness data from 2012‚Ä
 - Which Continuums of Care (CoCs) report the highest counts of unaccompanied homeless youth?  
 - Which U.S. states have the largest overall homeless populations?  
 - Which locations maintain very low unsheltered homelessness rates, and what does this suggest about shelter systems?  
+
+## Project Overview
+This project analyzes homelessness data from the Merit America Exploration Project dataset (2018). The analysis focuses on three key areas: unaccompanied homeless youth under 18, overall homelessness by state, and locations with low unsheltered populations. Together, these analyses help illustrate where homelessness challenges are most concentrated and where support systems are working effectively.
+
+---
+
+## Data Sources
+- **Dataset:** `merit-america-data-project-ce.Exploration_Project.homelessness` (BigQuery)  
+- **Years included:** (2018)  
+
+---
+
+## Methods
+- Cleaned and filtered public homelessness data using SQL in BigQuery  
+- Used aggregations, filtering, and `GROUP BY` clauses to identify trends and comparisons  
+- Exported query results to CSV files for validation and visualization  
+- Created charts using Google Sheets pivot tables and bar charts  
 
 ---
 
@@ -66,12 +83,7 @@ This project uses SQL and BigQuery to analyze U.S. homelessness data from 2012‚Ä
 
 **Key Findings:**  
 - Locations such as Springfield/Hampden County CoC (MA) and Nassau & Suffolk Counties CoC (NY) maintain unsheltered homelessness rates below 2%.  
-- Even regions with high overall homelessness counts can achieve low unsheltered rates through strong shelter availability and coordinated support services.  
-
----
-
-## Why This Matters
-Understanding where homelessness interventions are most effective helps policymakers, nonprofits, and community organizations allocate resources more strategically. Identifying regions with low unsheltered rates shows how coordinated systems and shelter infrastructure can significantly reduce the number of people living without shelter.
+- Even regions with high overall homelessness counts can achieve low unsheltered rates through strong shelter availability and coordinated support services.
 
 ---
 
@@ -113,4 +125,10 @@ View this project in my portfolio: [Portfolio Link](https://sites.google.com/d/1
 
 
 
-  
+
+
+
+
+
+
+
