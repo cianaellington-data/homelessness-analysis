@@ -1,11 +1,15 @@
 # Homelessness Data Analysis Project
 
-SQL analysis of U.S. homelessness data (2018)
+![SQL](https://img.shields.io/badge/SQL-BigQuery-blue)
+![Data Analysis](https://img.shields.io/badge/Data-Analysis-orange)
+![License](https://img.shields.io/badge/License-MIT-green)
+
+SQL analysis of U.S. homelessness data (2012–2018)
 
 ---
 
 ## Executive Summary
-This project uses SQL and BigQuery to analyze U.S. homelessness data from 2018, uncovering key patterns in unaccompanied homeless youth, overall homelessness by state, and regions with strong shelter coverage. The goal is to support data-informed decision-making and highlight how public data can help guide effective policies and resource allocation.
+This project uses SQL and BigQuery to analyze U.S. homelessness data from 2012–2018, uncovering key patterns in unaccompanied homeless youth, overall homelessness by state, and regions with strong shelter coverage. The goal is to support data-informed decision-making and highlight how public data can help guide effective policies and resource allocation.
 
 > 🔍 **Featured Insight:** Some regions with large homeless populations maintain unsheltered rates below 2%, showing that strong shelter infrastructure and coordinated services can significantly reduce unsheltered homelessness.
 
@@ -16,14 +20,16 @@ This project uses SQL and BigQuery to analyze U.S. homelessness data from 2018, 
 - Which U.S. states have the largest overall homeless populations?  
 - Which locations maintain very low unsheltered homelessness rates, and what does this suggest about shelter systems?  
 
+---
+
 ## Project Overview
-This project analyzes homelessness data from the Merit America Exploration Project dataset (2018). The analysis focuses on three key areas: unaccompanied homeless youth under 18, overall homelessness by state, and locations with low unsheltered populations. Together, these analyses help illustrate where homelessness challenges are most concentrated and where support systems are working effectively.
+This project analyzes homelessness data from the Merit America Exploration Project dataset (2012–2018). The analysis focuses on three key areas: unaccompanied homeless youth under 18, overall homelessness by state, and locations with low unsheltered populations. Together, these analyses help illustrate where homelessness challenges are most concentrated and where support systems are working effectively.
 
 ---
 
 ## Data Sources
 - **Dataset:** `merit-america-data-project-ce.Exploration_Project.homelessness` (BigQuery)  
-- **Years included:** (2018)  
+- **Years included:** 2012–2018  
 
 ---
 
@@ -56,7 +62,9 @@ This project analyzes homelessness data from the Merit America Exploration Proje
 ### 1. Top 3 CoCs – Unaccompanied Homeless Youth Under 18 (2018)
 - **Query:** `queries/top_3_unaccompanied_youth.sql`  
 - **Data:** `data/top_3_unaccompanied_youth_2018_csv.csv`  
-- **Chart:** `images/top_3_unaccompanied_youth_2018.png`
+
+**Chart:**
+![Top 3 Unaccompanied Youth](images/top_3_unaccompanied_youth_2018.png)
 
 **Key Findings:**  
 - San Jose/Santa Clara City & County CoC: 506 youth  
@@ -68,7 +76,9 @@ This project analyzes homelessness data from the Merit America Exploration Proje
 ### 2. Top States – Overall Homeless Population (2018)
 - **Query:** `queries/top_states_overall_homeless.sql`  
 - **Data:** `data/top_states_overall_homeless_2018_csv.csv`  
-- **Chart:** `images/top_states_overall_homeless_2018.png`
+
+**Chart:**
+![Top States Overall Homeless](images/top_states_overall_homeless_2018.png)
 
 **Key Findings:**  
 - States with the highest homeless populations include California, New York, Florida, Texas, Washington, Massachusetts, and Oregon.  
@@ -79,7 +89,9 @@ This project analyzes homelessness data from the Merit America Exploration Proje
 ### 3. Low Unsheltered Locations (<2% Unsheltered, 2018)
 - **Query:** `queries/low_unsheltered_locations.sql`  
 - **Data:** `data/low_unsheltered_locations_csv.csv`  
-- **Chart:** `images/low_unsheltered_locations_2018.png`
+
+**Chart:**
+![Low Unsheltered Locations](images/low_unsheltered_locations_2018.png)
 
 **Key Findings:**  
 - Locations such as Springfield/Hampden County CoC (MA) and Nassau & Suffolk Counties CoC (NY) maintain unsheltered homelessness rates below 2%.  
@@ -121,6 +133,7 @@ This project analyzes homelessness data from the Merit America Exploration Proje
 
 ## Portfolio Link
 View this project in my portfolio: [Portfolio Link](https://sites.google.com/d/1MqpFCWTMwqxzWNlhEOSLcIGVGHlUNs6T/p/11o0lipklEm6mn1q2-UZcltNbdAI_qSes/edit)
+
 
 
 
