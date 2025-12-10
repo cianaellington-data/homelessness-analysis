@@ -69,7 +69,7 @@ homelessness-data-project/
 - **Data:** `top_3_unaccompanied_youth_2018.csv`  
 - **Chart:**  
 
-![Top 3 Unaccompanied Youth](images/top_3_unaccompanied_youth_chart.png)
+!
 
 **Key Findings:**  
 - San Jose/Santa Clara City & County CoC: 506 youth  
