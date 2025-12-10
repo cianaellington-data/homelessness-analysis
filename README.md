@@ -92,9 +92,14 @@ Understanding where homelessness interventions are most effective helps policyma
 - Integrate Python or Jupyter notebooks for advanced visualization
 
 ## Limitations
-- Data represents point-in-time counts and may not capture seasonal variation.
+- Data represents point-in-time counts and may not capture seasonal variations
 - Analysis focuses on 2018 for comparison clarity and does not model causation.
 - Shelter effectiveness is inferred from unsheltered percentages, not service-level data.
+
+- > View this project in my portfolio:https://sites.google.com/d/1MqpFCWTMwqxzWNlhEOSLcIGVGHlUNs6T/p/11o0lipklEm6mn1q2-UZcltNbdAI_qSes/edit
+
+
+- 
 
 
 ## Project Structure
