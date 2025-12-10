@@ -64,39 +64,6 @@ homelessness-data-project/
 
 ## Analyses & Insights
 
-### 1. Top 3 CoCs – Unaccompanied Homeless Youth Under 18 (2018)
-- **Query:** `top_3_unaccompanied_youth.sql`  
-- **Data:** `top_3_unaccompanied_youth_2018.csv`  
-- **Chart:**  
-
-!
-
-**Key Findings:**  
-- San Jose/Santa Clara City & County CoC: 506 youth  
-- Oregon Balance of State CoC: 243 youth  
-- Las Vegas/Clark County CoC: 9 youth  
-
-This highlights regions where youth homelessness is most concentrated, helping identify where targeted youth-focused interventions may be most needed.
-
----
-
-### 2. Top States – Overall Homeless Population (2018)
-- **Query:** `top_states_overall_homeless.sql`  
-- **Data:** `top_states_overall_homeless_2018.csv`  
-- **Chart:**  
-
-
-
-**Key Findings:**  
-- States with the highest homeless populations include California, New York, Florida, Texas, Washington, Massachusetts, and Oregon.  
-- Homelessness is disproportionately concentrated in certain states relative to overall population size.  
-
----
-
-### 3. Low Unsheltered Locations (<2% Unsheltered, 2018)
-- **Query:** `low_unsheltered_locations.sql`  
-- **Data:** `low_unsheltered_locations_2018.csv`  
-- **Chart:**  
 
 
 
