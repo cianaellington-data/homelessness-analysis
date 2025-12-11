@@ -30,8 +30,7 @@ This project analyzes U.S. homelessness data in 2018, focusing on:
 ## Visualizations
 
 ### **1. Top 3 CoCs – Under 18**
- https://github.com/cianaellington-data/homelessness-analysis/blob/main/low_unsheltered_locations_2018.png
-
+ https://github.com/cianaellington-data/homelessness-analysis/blob/main/top3_cocs_under18_2018.png
 **Insight:** Youth homelessness is concentrated in a few CoCs, suggesting that targeted interventions could have a high impact.
 
 ### **2. Low Unsheltered Locations**
@@ -39,7 +38,7 @@ This project analyzes U.S. homelessness data in 2018, focusing on:
 **Insight:** Locations with <2% unsheltered populations demonstrate successful shelter strategies that could serve as models for other regions.
 
 ### **3. Top 7 States – Total Homeless**
-![Top 7 States Total Homeless](images/top7_states_total_homeless_2018.png)  
+
 **Insight:** California and New York dominate the national homeless population, showing where state-level resources are most needed.
 
 ---
