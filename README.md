@@ -22,7 +22,7 @@ This project analyzes U.S. homelessness data in 2018, focusing on:
 | File | Description | Key Insight |
 |------|-------------|------------|
 | `unaccompanied_youth_top3_2018.csv` | Top 3 CoCs by unaccompanied youth under 18 | San Jose/Santa Clara CoC has the highest number of youth, followed by Oregon Balance of State and Las Vegas/Clark County. Youth homelessness is concentrated in a few urban areas. |
-| `top7_states_homeless_2018.csv` | Top 7 states by total homeless population | California (~129,972) and New York (~91,897) have the largest homeless populations. These states account for a significant portion of national homelessness. |
+| `top7_states_homeless_2018.csv` | Top 7 states by total homeless population | California (~129,972) and New York (~91,897) have the largest homeless populations, representing a majority of national homelessness. |
 | `low_unsheltered_locations_2018.csv` | Locations with unsheltered populations under 2% | Some regions maintain very low unsheltered rates despite large populations, indicating effective shelter strategies. |
 
 ---
@@ -33,13 +33,13 @@ This project analyzes U.S. homelessness data in 2018, focusing on:
 ![Top 3 CoCs under 18](images/top3_cocs_under18_2018.png)  
 **Insight:** Youth homelessness is concentrated in a few CoCs, suggesting that targeted interventions could have a high impact.
 
-### **2. Top 7 States – Total Homeless**
-![Top 7 States Homeless Population](images/top7_states_homeless_2018.png)  
-**Insight:** California and New York dominate the national homeless population, showing where state-level resources are most needed.
-
-### **3. Low Unsheltered Locations**
+### **2. Low Unsheltered Locations**
 ![Low Unsheltered Locations](images/low_unsheltered_locations_2018.png)  
 **Insight:** Locations with <2% unsheltered populations demonstrate successful shelter strategies that could serve as models for other regions.
+
+### **3. Top 7 States – Total Homeless**
+![Top 7 States Total Homeless](images/top7_states_total_homeless_2018.png)  
+**Insight:** California and New York dominate the national homeless population, showing where state-level resources are most needed.
 
 ---
 
@@ -76,7 +76,6 @@ This project analyzes U.S. homelessness data in 2018, focusing on:
 
 ## License
 This project is for educational and portfolio purposes.
-
 
 ## Portfolio
 View this project in my portfolio: [Portfolio Link](https://sites.google.com/d/1MqpFCWTMwqxzWNlhEOSLcIGVGHlUNs6T/p/11o0lipklEm6mn1q2-UZcltNbdAI_qSes/edit)
