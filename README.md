@@ -1,55 +1,45 @@
-# Homelessness Data Analysis Project
-SQL analysis of U.S. homelessness data (2018)
+# Homelessness Data Analysis Project (2018)
 
----
+This project analyzes U.S. homelessness data in 2018, focusing on:
 
-## Executive Summary
-This project analyzes U.S. homelessness data in 2018 using **SQL** and **BigQuery**, focusing on unaccompanied homeless youth, overall homelessness by state, and regions with strong shelter coverage. Insights highlight how public data can guide policy and resource allocation.
+- **Unaccompanied homeless youth under 18**  
+- **Overall homelessness by state**  
+- **Regions with strong shelter coverage (low unsheltered rates)**
 
-> 🔍 **Featured Insight:** Some regions with large homeless populations maintain unsheltered rates below 2%, showing the impact of coordinated shelter services.
+> 🔍 **Featured Insight:** Some regions with large homeless populations maintain unsheltered rates below 2%, highlighting the impact of coordinated shelter services.
 
 ---
 
 ## Key Questions
 - Which **CoCs** report the highest counts of unaccompanied homeless youth?  
 - Which **states** have the largest overall homeless populations?  
-- Which locations maintain very low **unsheltered homelessness rates**, and what does this suggest about shelter systems?  
+- Which locations maintain very low **unsheltered homelessness rates**, and what does this suggest about shelter systems?
 
 ---
 
-## Methods & Data
-- **Dataset:** `merit-america-data-project-ce.Exploration_Project.homelessness` (2018, BigQuery)  
-- Cleaned and filtered data using **SQL**  
-- Used **aggregations**, **filtering**, and `GROUP BY` to identify trends  
-- Exported **CSV files** for further exploration and analysis  
+## Datasets & Insights
 
-**Key Files:**  
-- Queries:  
-  - `queries/top_3_unaccompanied_youth.sql`  
-  - `queries/top_states_overall_homeless.sql`  
-  - `queries/low_unsheltered_locations.sql`  
-- Data CSVs:  
-  - `data/top_3_unaccompanied_youth_2018_csv.csv`  
-  - `data/top_states_overall_homeless_2018_csv.csv`  
-  - `data/low_unsheltered_locations_csv.csv`  
+| File | Description | Key Insight |
+|------|-------------|------------|
+| `unaccompanied_youth_top3_2018.csv` | Top 3 CoCs by unaccompanied youth under 18 | San Jose/Santa Clara CoC has the highest number of youth, followed by Oregon Balance of State and Las Vegas/Clark County. Youth homelessness is concentrated in a few urban areas. |
+| `top7_states_homeless_2018.csv` | Top 7 states by total homeless population | California (~129,972) and New York (~91,897) have the largest homeless populations. These states account for a significant portion of national homelessness. |
+| `low_unsheltered_locations_2018.csv` | Locations with unsheltered populations under 2% | Some regions maintain very low unsheltered rates despite large populations, indicating effective shelter strategies. |
 
 ---
 
-## Insights
+## Visualizations
 
-### Top 3 CoCs – Unaccompanied Homeless Youth
-- San Jose/Santa Clara City & County CoC: 506 youth  
-- Oregon Balance of State CoC: 243 youth  
-- Las Vegas/Clark County CoC: 9 youth  
+### **1. Top 3 CoCs – Under 18**
+![Top 3 CoCs under 18](images/top3_cocs_under18_2018.png)  
+**Insight:** Youth homelessness is concentrated in a few CoCs, suggesting that targeted interventions could have a high impact.
 
-### Top States – Overall Homeless Population
-- California, New York, Florida, Texas, Washington, Massachusetts, Oregon  
-- Homelessness is disproportionately concentrated in certain states  
+### **2. Top 7 States – Total Homeless**
+![Top 7 States Homeless Population](images/top7_states_homeless_2018.png)  
+**Insight:** California and New York dominate the national homeless population, showing where state-level resources are most needed.
 
-### Low Unsheltered Locations (<2%)
-- Springfield/Hampden County CoC (MA)  
-- Nassau & Suffolk Counties CoC (NY)  
-- Demonstrates the impact of strong shelter infrastructure  
+### **3. Low Unsheltered Locations**
+![Low Unsheltered Locations](images/low_unsheltered_locations_2018.png)  
+**Insight:** Locations with <2% unsheltered populations demonstrate successful shelter strategies that could serve as models for other regions.
 
 ---
 
@@ -57,6 +47,7 @@ This project analyzes U.S. homelessness data in 2018 using **SQL** and **BigQuer
 - **SQL (BigQuery):** aggregations, filtering, `GROUP BY`  
 - **Data analysis & interpretation**  
 - **Portfolio-ready data presentation**  
+- **Tableau:** bar charts, maps, dashboards
 
 ---
 
@@ -64,6 +55,7 @@ This project analyzes U.S. homelessness data in 2018 using **SQL** and **BigQuer
 1. Clone or download this repository  
 2. Open CSV files in **Google Sheets** or **Excel**  
 3. Run SQL queries in **BigQuery** to reproduce the analysis  
+4. View visualizations directly from the PNGs in `/images`
 
 ---
 
@@ -72,16 +64,19 @@ This project analyzes U.S. homelessness data in 2018 using **SQL** and **BigQuer
 - Compare sheltered vs. unsheltered populations over time  
 - Integrate Python or Jupyter notebooks for advanced visualization  
 - Explore demographic breakdowns of homeless populations  
-- Study correlations between state policies and unsheltered rates  
+- Study correlations between state policies and unsheltered rates
 
 ---
 
 ## Limitations
 - Data represents **point-in-time counts**; may not capture seasonal variation  
-- Analysis focuses on 2018 and **does not model causation**  
-- Shelter effectiveness is inferred from **unsheltered percentages**, not service-level data  
+- Analysis focuses on 2018 and **does not model causation**
 
 ---
+
+## License
+This project is for educational and portfolio purposes.
+
 
 ## Portfolio
 View this project in my portfolio: [Portfolio Link](https://sites.google.com/d/1MqpFCWTMwqxzWNlhEOSLcIGVGHlUNs6T/p/11o0lipklEm6mn1q2-UZcltNbdAI_qSes/edit)
