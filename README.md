@@ -1,6 +1,10 @@
 # Homelessness Data Analysis Project (2018)
 **Analyzing U.S. homelessness patterns in 2018 to identify youth hotspots and effective shelter strategies.**
 
+[![SQL](https://img.shields.io/badge/SQL-Intermediate-blue)](https://github.com/cianaellington-data)
+[![Tableau](https://img.shields.io/badge/Tableau-Intermediate-orange)](https://public.tableau.com/app/profile/)
+[![GitHub](https://img.shields.io/badge/GitHub-Portfolio-black)](https://github.com/cianaellington-data)
+
 This project examines U.S. homelessness data from 2018, focusing on:  
 
 - Unaccompanied homeless youth under 18  
@@ -8,6 +12,18 @@ This project examines U.S. homelessness data from 2018, focusing on:
 - Regions with strong shelter coverage (low unsheltered rates)  
 
 🔍 **Featured Insight:** Some regions with large homeless populations maintain unsheltered rates below 2%, highlighting the impact of coordinated shelter services.
+
+---
+
+## Table of Contents
+1. [Key Questions](#key-questions)  
+2. [Datasets & Insights](#datasets--insights)  
+3. [Visualizations](#visualizations)  
+4. [Skills Demonstrated](#skills-demonstrated)  
+5. [How to Use](#how-to-use)  
+6. [Future Work](#future-work)  
+7. [Limitations](#limitations)  
+8. [Portfolio](#portfolio)
 
 ---
 
@@ -52,23 +68,32 @@ This project examines U.S. homelessness data from 2018, focusing on:
 
 ## How to Use
 1. Clone or download this repository  
+2. Open CSV files in Google Sheets or Excel  
+3. Run SQL queries in BigQuery to reproduce the analysis  
+4. View visualizations directly from the embedded links or the `/images` folder
 
 ---
 
-## Future Work
+<details>
+<summary>Future Work</summary>
+
 - Analyze homelessness trends across multiple years  
 - Compare sheltered vs. unsheltered populations over time  
 - Integrate Python or Jupyter notebooks for advanced visualization  
 - Explore demographic breakdowns of homeless populations  
 - Study correlations between state policies and unsheltered rates
 
----
+</details>
 
-## Limitations
+<details>
+<summary>Limitations</summary>
+
 - Data represents point-in-time counts; may not capture seasonal variation  
 - Analysis focuses on 2018 and does not model causation  
+
+</details>
 
 ---
 
 ## Portfolio
-View this project in my portfolio: [https://sites.google.com/d/1MqpFCWTMwqxzWNlhEOSLcIGVGHlUNs6T/p/11o0lipklEm6mn1q2-UZcltNbdAI_qSes/edit]
+[View this project in my portfolio](https://sites.google.com/d/1MqpFCWTMwqxzWNlhEOSLcIGVGHlUNs6T/p/11o0lipklEm6mn1q2-UZcltNbdAI_qSes/edit)
