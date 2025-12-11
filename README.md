@@ -30,7 +30,7 @@ This project analyzes U.S. homelessness data in 2018, focusing on:
 ## Visualizations
 
 ### **1. Top 3 CoCs – Under 18**
-![Top 3 CoCs under 18](images/top3_cocs_under18_2018.png)  
+ https://github.com/cianaellington-data/homelessness-analysis/blob/main/low_unsheltered_locations_2018.png
 **Insight:** Youth homelessness is concentrated in a few CoCs, suggesting that targeted interventions could have a high impact.
 
 ### **2. Low Unsheltered Locations**
