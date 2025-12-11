@@ -1,10 +1,6 @@
 # Homelessness Data Analysis Project (2018)
 **Analyzing U.S. homelessness patterns in 2018 to identify youth hotspots and effective shelter strategies.**
 
-[![SQL](https://img.shields.io/badge/SQL-Intermediate-blue)](https://github.com/cianaellington-data)
-[![Tableau](https://img.shields.io/badge/Tableau-Intermediate-orange)](https://public.tableau.com/app/profile/)
-[![GitHub](https://img.shields.io/badge/GitHub-Portfolio-black)](https://github.com/cianaellington-data)
-
 This project examines U.S. homelessness data from 2018, focusing on:  
 
 - Unaccompanied homeless youth under 18  
