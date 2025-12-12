@@ -1,11 +1,25 @@
 # Homelessness Data Analysis Project (2018)
 **Analyzing U.S. homelessness patterns in 2018 to identify youth hotspots and effective shelter strategies.**
 
-This project examines U.S. homelessness data from 2018, focusing on:  
+TL;DR / Summary
+This project analyzes U.S. homelessness in 2018, focusing on:
 
-- Unaccompanied homeless youth under 18  
-- Overall homelessness by state  
-- Regions with strong shelter coverage (low unsheltered rates)  
+Unaccompanied youth under 18 – identifying CoCs with the highest youth homelessness.
+
+State-level populations – highlighting states with the largest overall homeless counts.
+
+Effective shelter systems – pinpointing locations with very low unsheltered rates (<2%).
+
+Key Insights:
+
+California (~129,972) and New York (~91,897) account for the majority of national homelessness.
+
+Some counties, like Springfield/Hampden, MA, maintain <2% unsheltered rates, showing the impact of coordinated shelter programs.
+
+Youth homelessness is concentrated in a few urban CoCs, suggesting that targeted interventions could have a high impact.
+
+Technical Stack:
+SQL (BigQuery), Tableau, Excel, Google Sheets, GitHub
 
 🔍 **Featured Insight:** Some regions with large homeless populations maintain unsheltered rates below 2%, highlighting the impact of coordinated shelter services.
 
@@ -58,8 +72,29 @@ This project examines U.S. homelessness data from 2018, focusing on:
 ---
 
 ## Skills Demonstrated
-**Technical Skills:** SQL (BigQuery – aggregations, filtering, GROUP BY), Data Analysis & Interpretation, Tableau (bar charts, maps, dashboards)  
-**Tools & Platforms:** Google Sheets, Excel, Tableau, GitHub
+Technical Skills
+
+SQL (BigQuery): Aggregations, filtering, GROUP BY, and data cleaning.
+
+Data Visualization: Tableau dashboards, bar charts, choropleth maps, and spatial analysis.
+
+Spreadsheet Analysis: Excel and Google Sheets for pivot tables and data exploration.
+
+Data Analysis & Interpretation
+
+Extracting actionable insights from complex datasets.
+
+Identifying trends in youth homelessness and unsheltered populations.
+
+Comparing state-level and local trends to support decision-making.
+
+Other Skills
+
+Data Storytelling: Communicating findings effectively through visuals and summaries.
+
+Portfolio-Ready Presentation: Structuring analysis and results for GitHub and public viewing.
+
+Critical Thinking: Highlighting patterns, limitations, and future opportunities for impact.
 
 ---
 
