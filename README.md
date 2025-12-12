@@ -36,7 +36,6 @@ This project examines U.S. homelessness data from 2018, focusing on:
 | ------------------------------------ | ----------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | `unaccompanied_youth_top3_2018.csv`  | Top 3 CoCs by unaccompanied youth under 18      | San Jose/Santa Clara CoC has the highest number of youth, followed by Oregon Balance of State and Las Vegas/Clark County. 
 | `low_unsheltered_locations_2018.csv` | Locations with unsheltered populations under 2% | | Locations like Springfield/Hampden County, MA and Nassau & Suffolk Counties, NY maintain <2% unsheltered homelessness, showing that strong shelter systems and community support can serve as models for other regions.
-
 | `top7_states_homeless_2018.csv`      | Top 7 states by total homeless population       | California (~129,972) and New York (~91,897) have the largest homeless populations, representing a majority of national homelessness.                                                                                                        |
 
 
