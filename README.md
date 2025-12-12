@@ -106,9 +106,14 @@ SQL (BigQuery), Tableau, Excel, Google Sheets, GitHub
 ---
 
 ## **Future Work**
-- Expand analysis to multiple years to identify trends.  
-- Integrate demographic and economic data to predict youth homelessness hotspots.  
-- Compare unsheltered rates with shelter funding levels to identify causal relationships.  
+- **Expand analysis across multiple years** to identify trends and seasonal patterns in homelessness.  
+- **Integrate demographic and economic data** (age, race, income, housing costs) to better predict youth homelessness hotspots.  
+- **Compare unsheltered rates with shelter funding levels** and program types to identify causal relationships and effectiveness of interventions.  
+- **Incorporate geographic and spatial analysis** using GIS or advanced mapping tools to visualize regional disparities more clearly.  
+- **Include policy and program evaluation** to assess which interventions or funding strategies correlate with lower unsheltered rates.  
+- **Develop predictive models** using machine learning to forecast at-risk areas or populations for targeted interventions.  
+- **Create interactive dashboards** to allow policymakers or organizations to explore trends and make data-driven decisions.
+
 
 ---
 ## **Limitations**
