@@ -62,16 +62,19 @@ SQL (BigQuery), Tableau, Excel, Google Sheets, GitHub
 ### 1. Top 3 CoCs – Under 18
 ![Top 3 CoCs – Under 18](https://github.com/cianaellington-data/homelessness-analysis/raw/main/top3_cocs_under18_2018.png)  
 *Insight: Youth homelessness is concentrated in a few CoCs, suggesting that targeted interventions could have a high impact.*
+
 *Actionable Takeaway:* Targeted youth services in these areas could maximize impact.
 
 ### 2. Low Unsheltered Locations
 ![Low Unsheltered Locations](https://github.com/cianaellington-data/homelessness-analysis/raw/main/low_unsheltered_locations_2018.png)  
 *Insight: Locations with <2% unsheltered populations, such as Springfield/Hampden County, Massachusetts and Nassau & Suffolk Counties, New York, demonstrate successful shelter strategies that could serve as models for other regions.
+
 *Actionable Takeaway:* Their shelter models can inform national best practices.
 
 ### 3. Top 7 States – Total Homeless
 ![Top 7 States – Total Homeless](https://github.com/cianaellington-data/homelessness-analysis/raw/main/top7_states_total_homeless_2018.png)  
 **Insight:** California and New York dominate the national homeless population, showing where state-level resources are most needed.  
+
 **Actionable Takeaway:** State-level funding and policies are crucial in these regions.
 
 ---
