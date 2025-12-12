@@ -10,7 +10,7 @@ This project analyzes U.S. homelessness in 2018, focusing on:
 - **Effective shelter systems** – pinpointing locations with very low **unsheltered rates (<2%)**
 
 
-Key Insights:
+## **Key Insights**
 
 California (~129,972) and New York (~91,897) account for the majority of national homelessness.
 
@@ -20,6 +20,7 @@ Youth homelessness is concentrated in a few urban CoCs, suggesting that targeted
 
 Technical Stack:
 SQL (BigQuery), Tableau, Excel, Google Sheets, GitHub
+
 
 **Purpose:** Provide actionable insights for policymakers, social services, and community organizations to **target interventions effectively**.
 
@@ -61,15 +62,15 @@ SQL (BigQuery), Tableau, Excel, Google Sheets, GitHub
 
 ### 1. Top 3 CoCs – Under 18
 ![Top 3 CoCs – Under 18](https://github.com/cianaellington-data/homelessness-analysis/raw/main/top3_cocs_under18_2018.png)  
-*Insight: Youth homelessness is concentrated in a few CoCs, suggesting that targeted interventions could have a high impact.*
+**Insight:** Youth homelessness is concentrated in a few CoCs, suggesting that targeted interventions could have a high impact.*
 
-*Actionable Takeaway:* Targeted youth services in these areas could maximize impact.
+ **Actionable Takeaway:** Targeted youth services in these areas could maximize impact.
 
 ### 2. Low Unsheltered Locations
 ![Low Unsheltered Locations](https://github.com/cianaellington-data/homelessness-analysis/raw/main/low_unsheltered_locations_2018.png)  
-*Insight: Locations with <2% unsheltered populations, such as Springfield/Hampden County, Massachusetts and Nassau & Suffolk Counties, New York, demonstrate successful shelter strategies that could serve as models for other regions.
+**Insight:**: Locations with <2% unsheltered populations, such as Springfield/Hampden County, Massachusetts and Nassau & Suffolk Counties, New York, demonstrate successful shelter strategies that could serve as models for other regions.
 
-*Actionable Takeaway:* Their shelter models can inform national best practices.
+ **Actionable Takeaway:** Their shelter models can inform national best practices.
 
 ### 3. Top 7 States – Total Homeless
 ![Top 7 States – Total Homeless](https://github.com/cianaellington-data/homelessness-analysis/raw/main/top7_states_total_homeless_2018.png)  
