@@ -71,8 +71,9 @@ SQL (BigQuery), Tableau, Excel, Google Sheets, GitHub
 
 ### 3. Top 7 States – Total Homeless
 ![Top 7 States – Total Homeless](https://github.com/cianaellington-data/homelessness-analysis/raw/main/top7_states_total_homeless_2018.png)  
-*Insight: California and New York dominate the national homeless population, showing where state-level resources are most needed.*
-*Actionable Takeaway:* State-level funding and policies are crucial in these regions.
+**Insight:** California and New York dominate the national homeless population, showing where state-level resources are most needed.  
+**Actionable Takeaway:** State-level funding and policies are crucial in these regions.
+
 ---
 
 ## Skills Demonstrated
