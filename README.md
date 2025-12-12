@@ -49,7 +49,7 @@ This project examines U.S. homelessness data from 2018, focusing on:
 
 ### 2. Low Unsheltered Locations
 ![Low Unsheltered Locations](https://github.com/cianaellington-data/homelessness-analysis/raw/main/low_unsheltered_locations_2018.png)  
-*Insight: ocations with <2% unsheltered populations, such as Springfield/Hampden County, Massachusetts and Nassau & Suffolk Counties, New York, demonstrate successful shelter strategies that could serve as models for other regions.
+*Insight: Locations with <2% unsheltered populations, such as Springfield/Hampden County, Massachusetts and Nassau & Suffolk Counties, New York, demonstrate successful shelter strategies that could serve as models for other regions.
 
 ### 3. Top 7 States – Total Homeless
 ![Top 7 States – Total Homeless](https://github.com/cianaellington-data/homelessness-analysis/raw/main/top7_states_total_homeless_2018.png)  
